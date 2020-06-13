@@ -6,4 +6,5 @@ public class person {
     private Integer gender;//性别:1表示男，0表示女
 
     //测试，测试
+
 }
