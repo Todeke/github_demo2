@@ -5,6 +5,4 @@ public class person {
     private Integer age;//年龄
     private Integer gender;//性别:1表示男，0表示女
 
-    private Integer number;//编号
-
 }
