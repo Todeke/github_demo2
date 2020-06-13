@@ -40,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -85,5 +86,13 @@
       <screen x="0" y="0" width="1920" height="1049" />
     </state>
     <state x="740" y="268" key="FileChooserDialogImpl/0.0.1920.1049@0.0.1920.1049" timestamp="1592034328560" />
+    <state x="552" y="260" key="Vcs.Push.Dialog.v2" timestamp="1592034380896">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="552" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1049@0.0.1920.1049" timestamp="1592034380896" />
+    <state x="636" y="326" key="git4idea.merge.GitPullDialog" timestamp="1592034454137">
+      <screen x="0" y="0" width="1920" height="1049" />
+    </state>
+    <state x="636" y="326" key="git4idea.merge.GitPullDialog/0.0.1920.1049@0.0.1920.1049" timestamp="1592034454137" />
   </component>
 </project>
